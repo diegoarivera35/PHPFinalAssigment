@@ -2,6 +2,8 @@
 
 # Portfolio Backend
 
+## Diego Alexander Rivera Acosta N01582292
+
 This repository contains the backend code for a portfolio application built using Laravel. The application allows users to manage projects and the technologies associated with them. There are two entities related through a bridging table named project_technology.
 
 ## Challenges
